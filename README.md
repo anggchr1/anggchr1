@@ -1,26 +1,26 @@
-# 👋 Hi, I'm ANGGA Ch!  
-### 🚀 just passing by 
+#  Hi, I'm ANGGA Ch!  
+###  just passing by 
 
 ![Banner](https://github.com/yeow-raven/yeow-raven/blob/main/assets/blackgoku.gif)  
 
-## 💻 About Me  
+##  About Me  
 I'm passionate about coding and always eager to learn new technologies.  
 I focus on web and mobile development while exploring game source codes for fun!  
 
 ---
 
-## 🎮 Hobbies & Activities  
-🎮 **Gaming** (PES, Minecraft, Mobile Legends, Valorant, Roblox)  
-🔍 **Exploring Game Source Codes**  
-💡 **Coding & Experimenting**  
+##  Hobbies & Activities  
+ **Gaming** (PES, Minecraft, Mobile Legends, Valorant, Roblox)  
+ **Exploring Game Source Codes**  
+ **Coding & Experimenting**  
 
-🌟 *"Code like a gamer, play like a developer!"*  
+ *"Code like a gamer, play like a developer!"*  
 
 ![Banner](https://github.com/yeow-raven/yeow-raven/blob/main/assets/Scared%20Spider%20Web%20GIF%20by%20Xbox.gif)  
 
 ---
 
-## 📊 GitHub Stats  
+##  GitHub Stats  
 
 <p align="center">
   <a href="https://github.com/yeow-raven">
@@ -63,7 +63,7 @@ I focus on web and mobile development while exploring game source codes for fun!
 </p>
 
 
-### 🚀 Technology Stack  
+###  Technology Stack  
 <p>
   <a href="https://www.java.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
   <a href="https://www.php.net/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
@@ -73,7 +73,7 @@ I focus on web and mobile development while exploring game source codes for fun!
 
 ---
 
-## 📬 Connect With Me  
+##  Connect With Me  
 <p align="center">
   <a href="https://github.com/yeow-raven">
     <img src="https://img.shields.io/badge/GitHub-yeow--raven-blue?style=for-the-badge&logo=github"/>
@@ -82,4 +82,4 @@ I focus on web and mobile development while exploring game source codes for fun!
 
 ---
 
-### 🚀 Keep Coding & Keep Playing! 🎮  
+###  Keep Coding & Keep Playing!   
