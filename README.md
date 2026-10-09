@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F778BA&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+ANGGA+Ch!+(≧◡≦);just+passing+by~;Web+%26+Mobile+Dev;Powered+by+Waifu+Energy!;Code+like+a+gamer♡)](https://github.com/anggchr1)
 
-<img src="https://github.com/anggchr1/yeow-raven/raw/main/assets/blackgoku.gif" width="400" alt="anime banner"/>
+<img src="assets/waifu.gif" width="400" alt="waifu banner"/>
 
 <br/>
 <img src="https://img.shields.io/badge/🌸-Waifu%20Driven%20Dev-ff7eb3?style=for-the-badge"/>
