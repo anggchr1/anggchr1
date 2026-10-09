@@ -4,6 +4,7 @@
 <p align="left">
   <a href="https://github.com/anggchr1/anggchr1"><img src="https://komarev.com/ghpvc/?username=anggchr1" alt="page views" /></a>
   <a href="https://github.com/anggchr1?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/anggchr1?style=flat&logo=github" /></a>
+  <a href="https://anggchr1.github.io/portofolio/"><img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fanggchr1.github.io%2Fportofolio%2F" /></a>
 </p>
 
 <a href="https://github.com/anggchr1"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anggchr1&theme=tokyonight" alt="anggchr1" align="right" width="420" /></a>
@@ -12,6 +13,7 @@
 - 🌱 &nbsp;I'm currently learning **new web & mobile tech**
 - 💬 &nbsp;I like to talk about **Android, Flutter & game source codes**
 - 🎮 &nbsp;When not coding: **PES, Minecraft, ML, Valorant, Roblox**
+- 🌐 &nbsp;Check out my **[portfolio](https://anggchr1.github.io/portofolio/)**
 - 📫 &nbsp;Ask me anything on my **[issues page](https://github.com/anggchr1/anggchr1/issues)**
 
 <br clear="right" />
@@ -69,7 +71,7 @@
 </p>
 
 <p align="left">
-  <a href="https://github.com/anggchr1"><img src="https://github-readme-activity-graph.vercel.app/graph?username=anggchr1&theme=tokyo-night&hide_border=true" alt="activity graph" /></a>
+  <a href="https://github.com/anggchr1"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anggchr1&theme=tokyonight&utcOffset=7" alt="productive time" /></a>
 </p>
 
 <!-- ponytail: MacroPower uses an auto-updated WakaTime ASCII graph; upgrade to wakatime + GitHub Action later if you want real coding-activity data -->
