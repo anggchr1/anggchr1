@@ -1,62 +1,42 @@
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0a0e27,100:1a1b2e&height=200&section=header&text=ANGGA%20Ch&fontSize=55&fontColor=58A6FF&animation=fadeIn&fontAlignY=38&desc=Web%20%26%20Mobile%20Developer&descAlignY=58&descSize=20)
+
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+ANGGA+Ch!;just+passing+by;Web+%26+Mobile+Dev;Anime+fan+%7C+Gamer+%7C+Coder)](https://github.com/anggchr1)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+ANGGA!;Web+%26+Mobile+Developer;Anime+fan+%7C+Gamer+%7C+Coder;Welcome+to+my+profile!)](https://github.com/anggchr1)
 
-<img src="assets/waifu.gif" width="400" alt="anime banner"/>
-
-<br/>
-<img src="https://img.shields.io/badge/Anime-x-Code-58A6FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Gamer-Coder-24292f?style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=anggchr1&color=58A6FF&style=flat" alt="profile views"/>
+<img src="https://img.shields.io/github/followers/anggchr1?label=Followers&style=flat&color=58A6FF" alt="followers"/>
 
 </div>
+
+---
 
 ## About Me
-> *"Code like a gamer, play like a developer!"*
 
-Halo! Saya **ANGGA** — developer yang suka ngoding ditemani anime.
-- Fokus: **Web & Mobile Development**
-- Lagi belajar teknologi baru tiap hari
-- Suka ngulik **source code game** buat seru-seruan
-- Isekai? No. **Debug-world? Yes.**
+<img align="right" src="assets/waifu.gif" width="250" alt="anime"/>
 
----
+Halo! Saya **ANGGA** — developer yang fokus di **Web & Mobile Development** dan selalu semangat belajar teknologi baru.
 
-## Hobbies & Daily Quest
-- **Gaming** — PES, Minecraft, Mobile Legends, Valorant, Roblox
-- **Exploring Game Source Codes**
-- **Coding & Experimenting**
-- **Nonton anime + ngoding jam 2 pagi** (quest wajib)
+- Focus: Web & Mobile Development
+- Exploring: game source codes, new frameworks
+- Gaming: PES, Minecraft, Mobile Legends, Valorant, Roblox
+- Motto: *"Code like a gamer, play like a developer!"*
 
-<div align="center">
-<img src="https://github.com/anggchr1/yeow-raven/raw/main/assets/Scared%20Spider%20Web%20GIF%20by%20Xbox.gif" width="300" alt="chill"/>
-</div>
+<br clear="right"/>
 
 ---
 
-## GitHub Stats
+## Tech Stack
 
-<p align="center">
-  <a href="https://github.com/anggchr1">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anggchr1&theme=tokyonight" width="600px"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/anggchr1">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anggchr1&theme=tokyonight" height="150px"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/anggchr1">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anggchr1&theme=tokyonight" height="150px"/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anggchr1&theme=tokyonight" height="150px"/>
-  </a>
-</p>
-
----
-
-## Tools & Tech
+### Languages & Frameworks
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Tools
 <p>
@@ -74,27 +54,45 @@ Halo! Saya **ANGGA** — developer yang suka ngoding ditemani anime.
   </a>
 </p>
 
-### Technology Stack
-<p>
-  <a href="https://www.java.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-  <a href="https://www.php.net/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
-  <a href="https://dart.dev/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="dart" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> </a>
-</p>
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=anggchr1&show_icons=true&theme=tokyonight&hide_border=true" alt="stats"/>
+<img height="160" src="https://streak-stats.demolab.com?user=anggchr1&theme=tokyonight&hide_border=true" alt="streak"/>
+
+<br/>
+
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anggchr1&layout=compact&theme=tokyonight&hide_border=true" alt="top langs"/>
+
+<br/>
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anggchr1&theme=tokyo-night&hide_border=true)](https://github.com/anggchr1)
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=anggchr1&theme=tokyonight&no-frame=true&margin-w=6)](https://github.com/anggchr1)
+
+</div>
 
 ---
 
 ## Connect With Me
-<p align="center">
-  <a href="https://github.com/anggchr1">
-    <img src="https://img.shields.io/badge/GitHub-anggchr1-58A6FF?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+
+<div align="center">
+
+<a href="https://github.com/anggchr1">
+<img src="https://img.shields.io/badge/GitHub-anggchr1-58A6FF?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
 <div align="center">
 
 ### Keep Coding & Keep Watching Anime!
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0a0e27,100:1a1b2e&height=120&section=footer)
 
 </div>
