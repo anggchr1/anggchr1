@@ -49,8 +49,8 @@
       <br>VSCode
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="48" height="48" alt="Android Studio" />
-      <br>Studio
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="48" height="48" alt="AI/ML" />
+      <br>AI/ML
     </td>
     <td align="center" width="96">
       <img src="https://www.svgrepo.com/show/354575/xampp.svg" width="48" height="48" alt="XAMPP" />
