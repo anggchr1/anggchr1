@@ -59,6 +59,11 @@
   </tr>
 </table>
 
+<h2 align="left">Featured Projects</h2>
+
+- **[portofolio](https://github.com/anggchr1/portofolio)** — personal portfolio site (React + TypeScript + Vite), live at [anggchr1.github.io/portofolio](https://anggchr1.github.io/portofolio/)
+- **[MasakYuk](https://github.com/anggchr1/MasakYuk)** — mobile app (Dart/Flutter)
+
 <h2 align="left">GitHub Stats</h2>
 
 <p align="left">
