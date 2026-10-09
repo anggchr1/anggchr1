@@ -73,6 +73,7 @@
 
 <p align="left">
   <a href="https://github.com/anggchr1"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anggchr1&layout=compact&theme=tokyonight&hide_border=true" alt="top langs" /></a>
+  <a href="https://github.com/anggchr1"><img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anggchr1&theme=tokyonight" alt="repos per language" /></a>
 </p>
 
 <p align="left">
