@@ -2,7 +2,7 @@
 <h3 align="left">Web & Mobile Developer | Anime fan | Gamer</h3>
 
 <p align="left">
-  <a href="https://github.com/anggchr1/anggchr1"><img src="https://komarev.com/ghpvc/?username=anggchr1" alt="page views" /></a>
+  <a href="https://github.com/anggchr1/anggchr1"><img src="https://komarev.com/ghpvc/?username=anggchr1&label=Profile+views&color=58A6FF&style=flat" alt="page views" /></a>
   <a href="https://github.com/anggchr1?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/anggchr1?style=flat&logo=github" /></a>
   <a href="https://anggchr1.github.io/portofolio/"><img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fanggchr1.github.io%2Fportofolio%2F" /></a>
 </p>
